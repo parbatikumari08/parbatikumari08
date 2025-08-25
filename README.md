@@ -1,4 +1,4 @@
-# Hi, I'm Nikita 👋
+# Hi, I'm Parbati 👋
 
 🚀 **Aspiring Frontend Developer | React Enthusiast | MERN Stack Learner**
 
