@@ -12,7 +12,7 @@
 - **Frontend:** HTML, CSS, JavaScript (ES6+), React, Vite, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **Others:** Git, GitHub, REST APIs, JWT Auth, Axios, Postman  
+- **Others:** Git, GitHub, REST APIs, JWT Auth
 
 ---
 
