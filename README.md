@@ -3,13 +3,13 @@
 🚀 **Aspiring Frontend Developer | React Enthusiast | MERN Stack Learner**
 
 💡 Passionate about building clean, user-friendly web applications.  
-🎓 B.Tech CSE (7th Sem) • Preparing for placements  
+🎓 B.Tech CSE Graduate • Preparing for placements  
 📍 Based in India • Open to internships & SDE roles  
 
 ---
 
 ## 🔧 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (ES6+), React, Vite, Tailwind CSS  
+- **Frontend:** HTML, CSS, JavaScript (ES6+), React, Redux, Vite, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Others:** Git, GitHub, REST APIs, JWT Auth
