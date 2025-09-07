@@ -17,8 +17,7 @@
 ---
 
 ## 🌟 Featured Projects
-- **Travelog** – Interactive map-integrated travel journal with media uploads (Leaflet + React, MERN).  
-- **WhatsApp Web Clone** – Real-time chat UI with chat list and active threads.  
+- **Travelog** – Interactive map-integrated travel journal with media uploads (Leaflet + React, MERN).   
 - **To-Do List** – Minimal, responsive task manager built with React + Vite.  
 
 ---
