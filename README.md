@@ -18,14 +18,7 @@
 
 ## 🌟 Featured Projects
 - **Travelog** – Interactive map-integrated travel journal with media uploads (Leaflet + React, MERN).   
-- **To-Do List** – Minimal, responsive task manager built with React + Vite.  
-
----
-
-## 🌐 Connect With Me
-[LinkedIn](https://www.linkedin.com/) •  
-[Portfolio](https://your-portfolio-link.com) •  
-[Email](mailto:yourmail@example.com)  
+- **To-Do List** – Minimal, responsive task manager built with React + Vite. 
 
 ---
 
