@@ -43,56 +43,39 @@ I am a **B.Tech CSE graduate (2025)** with strong hands-on experience in buildin
 
 ---
 
-## 🌟 Featured Projects
+🌟 Featured Projects
+🧭 Travelog — MERN Travel Journal
+<p> <a href="https://letstravelog.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge"/> </a> <a href="https://github.com/parbatikumari08/Travelog-Frontend" target="_blank"> <img src="https://img.shields.io/badge/Frontend-Code-blue?style=for-the-badge"/> </a> <a href="https://github.com/parbatikumari08/Travelog-Backend" target="_blank"> <img src="https://img.shields.io/badge/Backend-Code-critical?style=for-the-badge"/> </a> </p>
 
-### 🧭 Travelog — MERN Travel Journal
+Full-stack MERN travel journal with interactive maps (Leaflet.js)
 
-<p>
-  <a href="https://letstravelog.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/parbatikumari08/Travelog" target="_blank">
-    <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge"/>
-  </a>
-</p>
+Secure JWT authentication, user profiles, dashboards, and dark mode
 
-* Full-stack MERN application with **interactive maps (Leaflet.js)**
-* JWT authentication, dashboards, profile management, dark mode
-* Media-supported travel entries with clean UI/UX
+Media-supported travel entries with clean, responsive UI
 
----
+Tech Stack: React.js, Node.js, Express.js, MongoDB, Leaflet.js
 
-### 🎬 Movie Recommendation System
+🎬 Movie Recommendation System
+<p> <a href="https://movie-recommnedation-using-react-git-master-parbati-s-projects.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge"/> </a> <a href="https://github.com/parbatikumari08/Movie-Recommnedation-using-react" target="_blank"> <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge"/> </a> </p>
 
-<p>
-  <a href="https://movie-recommnedation-using-react-git-master-parbati-s-projects.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/parbatikumari08/Movie-Recommendation-System" target="_blank">
-    <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge"/>
-  </a>
-</p>
+Content-based movie recommendation engine
 
-* Content-based recommendation engine
-* TMDB API integration
-* Fully responsive React UI
+Integrated TMDB API for real-time movie data
 
----
+Fully responsive React-based UI
 
-### 📝 Pastebin Web Application
+Tech Stack: React.js, JavaScript, Node.js, CSS
 
-<p>
-  <a href="https://pastebin-lite-6mn3.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/parbatikumari08/Pastebin-Web-App" target="_blank">
-    <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge"/>
-  </a>
-</p>
+📝 Pastebin Lite — Text Sharing Web App
+<p> <a href="https://pastebin-lite-6mn3.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge"/> </a> <a href="https://github.com/parbatikumari08/Pastebin-Lite" target="_blank"> <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge"/> </a> </p>
 
-* Create, store & share text snippets
-* REST APIs with MongoDB backend
-* Lightweight, fast, and minimal UI
+Pastebin-like application to create, store, and share text snippets
+
+RESTful backend with secure data handling
+
+Lightweight, fast, and minimal UI
+
+Tech Stack: React.js, Node.js, Express.js, MongoDB
 
 ---
 
