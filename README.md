@@ -1,49 +1,136 @@
-# Hi, I'm Parbati 👋
+# Hi, I'm Parbati Kumari 👋
 
-🚀 **Aspiring Frontend Developer | React Enthusiast | MERN Stack Learner**
+🚀 **Frontend-Focused Web Developer | React.js | MERN Stack**
 
-💡 Passionate about building clean, user-friendly web applications.  
-🎓 B.Tech CSE Graduate • Preparing for placements  
-📍 Based in India • Open to internships & SDE roles  
+I am a **B.Tech CSE graduate (2025)** with strong hands-on experience in building **responsive, user-centric web applications**. I specialize in **React-based frontend development** with practical exposure to backend integration, authentication, and REST APIs.
+
+📍 India • Open to **Frontend / Full-Stack / SDE** roles
 
 ---
 
 ## 🔧 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (ES6+), React, Redux, Vite, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Others:** Git, GitHub, REST APIs, JWT Auth
 
----
+### Frontend
 
-## 🌟 Featured Projects
-- **Travelog** – Interactive map-integrated travel journal with media uploads (Leaflet + React, MERN).   
-- **To-Do List** – Minimal, responsive task manager built with React + Vite. 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+</p>
 
----
+### Backend & Database
 
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=parbatikumari08&theme=radical&border_radius=5)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parbatikumari08&layout=compact&theme=radical)
+### Tools & Platforms
 
----
-
-## 🚀 Tools & Stacks
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" style="margin: 10px;"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45"/>
 </p>
 
 ---
 
-✨ **“Build. Learn. Share.”** ✨
+## 🌟 Featured Projects
+
+### 🧭 Travelog — MERN Travel Journal
+
+<p>
+  <a href="https://letstravelog.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/parbatikumari08/Travelog" target="_blank">
+    <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+* Full-stack MERN application with **interactive maps (Leaflet.js)**
+* JWT authentication, dashboards, profile management, dark mode
+* Media-supported travel entries with clean UI/UX
+
+---
+
+### 🎬 Movie Recommendation System
+
+<p>
+  <a href="https://movie-recommnedation-using-react-git-master-parbati-s-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/parbatikumari08/Movie-Recommendation-System" target="_blank">
+    <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+* Content-based recommendation engine
+* TMDB API integration
+* Fully responsive React UI
+
+---
+
+### 📝 Pastebin Web Application
+
+<p>
+  <a href="https://pastebin-lite-6mn3.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/parbatikumari08/Pastebin-Web-App" target="_blank">
+    <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+* Create, store & share text snippets
+* REST APIs with MongoDB backend
+* Lightweight, fast, and minimal UI
+
+---
+
+## 💼 Internship Experience
+
+**Web Developer Intern — InternPe**
+*Aug 2024 – Sep 2024*
+
+* Built reusable React components
+* Followed best coding & debugging practices
+* Improved maintainability and reduced bugs
+
+---
+
+## 📜 Certifications
+
+* Web Development — Udemy
+* React & Redux — Knowledge Gate
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/parbati-kumari-298b0431a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+  </a>
+  <a href="mailto:shawparo08@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png"/>
+  </a>
+  <a href="https://www.instagram.com/_nikitashaw_/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png"/>
+  </a>
+  <a href="https://github.com/parbatikumari08" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  </a>
+</p>
+
+---
+
+✨ *Build clean interfaces. Solve real problems. Keep learning.*
