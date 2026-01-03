@@ -43,8 +43,8 @@ I am a **B.Tech CSE graduate (2025)** with strong hands-on experience in buildin
 
 ---
 
-🌟 Featured Projects
-🧭 Travelog — MERN Travel Journal
+**🌟 Featured Projects**
+**🧭 Travelog — MERN Travel Journal**
 <p> <a href="https://letstravelog.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge"/> </a> <a href="https://github.com/parbatikumari08/Travelog-Frontend" target="_blank"> <img src="https://img.shields.io/badge/Frontend-Code-blue?style=for-the-badge"/> </a> <a href="https://github.com/parbatikumari08/Travelog-Backend" target="_blank"> <img src="https://img.shields.io/badge/Backend-Code-critical?style=for-the-badge"/> </a> </p>
 
 Full-stack MERN travel journal with interactive maps (Leaflet.js)
@@ -55,7 +55,7 @@ Media-supported travel entries with clean, responsive UI
 
 Tech Stack: React.js, Node.js, Express.js, MongoDB, Leaflet.js
 
-🎬 Movie Recommendation System
+**🎬 Movie Recommendation System**
 <p> <a href="https://movie-recommnedation-using-react-git-master-parbati-s-projects.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge"/> </a> <a href="https://github.com/parbatikumari08/Movie-Recommnedation-using-react" target="_blank"> <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge"/> </a> </p>
 
 Content-based movie recommendation engine
@@ -66,7 +66,7 @@ Fully responsive React-based UI
 
 Tech Stack: React.js, JavaScript, Node.js, CSS
 
-📝 Pastebin Lite — Text Sharing Web App
+**📝 Pastebin Lite — Text Sharing Web App**
 <p> <a href="https://pastebin-lite-6mn3.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge"/> </a> <a href="https://github.com/parbatikumari08/Pastebin-Lite" target="_blank"> <img src="https://img.shields.io/badge/Source-Code-blue?style=for-the-badge"/> </a> </p>
 
 Pastebin-like application to create, store, and share text snippets
