@@ -100,19 +100,23 @@ Tech Stack: React.js, Node.js, Express.js, MongoDB
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/parbati-kumari-298b0431a/" target="_blank">
+  <a href="https://www.linkedin.com/in/parbati-kumari-298b0431a/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
-  <a href="mailto:shawparo08@gmail.com">
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shawparo08@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/gmail-new.png"/>
   </a>
-  <a href="https://www.instagram.com/_nikitashaw_/" target="_blank">
+
+  <a href="https://www.instagram.com/_nikitashaw_/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/instagram-new.png"/>
   </a>
-  <a href="https://github.com/parbatikumari08" target="_blank">
+
+  <a href="https://github.com/parbatikumari08" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   </a>
 </p>
+
 
 ---
 
