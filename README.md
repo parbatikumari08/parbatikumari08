@@ -1,6 +1,6 @@
 # Hi, I'm Parbati Kumari 👋
 
-🚀 **Web Developer || React.js || MERN Stack**
+🚀 **Web Developer | React.js | MERN Stack**
 
 I am a **B.Tech CSE graduate (2025)** with strong hands-on experience in building **responsive, user-centric web applications**. I specialize in **React-based frontend development** with practical exposure to **backend integration**, authentication, and REST APIs.
 
