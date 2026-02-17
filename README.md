@@ -84,9 +84,9 @@ Tech Stack: React.js, Node.js, Express.js, MongoDB
 **MERN Stack Intern – Avieron Tech Pvt. Ltd.**                                                              
 *Aug 2025 – Jan 2026*
 
-  • Assisting in basic frontend and backend tasks using the MERN stack.
-  • Working on UI updates, bug fixes, and small feature improvements.
-  • Following team instructions, learned workflows, and improved coding practices.
+  * Assisting in basic frontend and backend tasks using the MERN stack.
+  * Working on UI updates, bug fixes, and small feature improvements.
+  * Following team instructions, learned workflows, and improved coding practices.
 
 
 **Web Developer Intern — InternPe**
